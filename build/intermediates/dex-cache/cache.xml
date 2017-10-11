@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/10fa9c9ffbf4fc677afbdf863214ee31fb2c1925/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_26d4636190e3b04506902999968086122872d969/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/a135c3f70b05dbd1f3e2ab9bc7067ac944492dc0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7477507754ed10aaa318f7b57700c797c86c032/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/b9589089b732b5bfe2365637fd354e103ab9f5ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a087e80de0541b2638c23dd4c30eb42861dd814c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/9783c76be0080ee8982a9d143f5b666f6a3e5b8a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88f55a5b1780991a2168a83b50f26990eba71d4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/7384f032ed15a2962cac0cf3d892a9bbb8b5c62d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0813afd7abf1e741977ba5b8dff672a0451b58de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/85825cb25901cd895b5d0f7ddbc88ea8ad839980/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1169cd8e77ce3846ff992e8b677292771c355fb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/4c6af65b45b293b1ed222385b6c3576837589cf5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79acbb5410224578c590333d96cad79b9a0b62c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc1d28852f0e560f10f165ae1f613b5a00ed048b">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6d6f4440bf0cacb2ddacbbb0b5664a59a45b7f44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/3784165733b35050b9dcd549f399d353ce997dca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3116dba0d9411774821b455f514e49569fc704d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/ec2f628e2c1e7f7baba2f1147e884fb96194973c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d70c2c058aa129f32792588e6268a06a7605b1b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/941a1deaaf17e13469e429475e6fc62f41883c8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8de61a1e75c51ebac46a895760d106f568856e12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/94b6a79126436f53762604ef898e194d37148ecf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22dfc17f8b4247635b2bce34129c7912a6100634/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/dfeb83b8b998bdc5ebaf305dc66f6ad7ae87e626/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ae9fe84c7b3086570196d1a5cdf3bc32ee21fff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/f4fd359722b093f7bbd3c797c964da5ddae4fe1a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1e22b28f563729e7bd8a779aade9f2c048da59f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/02c409fe8b9c80b1bfda33e8586b1cf2e4009433/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0bfc1236d9b3fc0cac099a53d70bf013a6c7b073/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e2b3d50fea8b1b513e880d35735620e2aad60cf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_df730fd0ad09519dbb9216ab23c29ac6de16c8c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/086ede3862caa29db816b7e7f2d18f9aa9e04f25/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a9c42b34f54dc52ee2080deb5141b4d7c7a14f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/42c043cb8592aa18e3cd5d81ee48825a806a4d16/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15f29c10b185ebf5ad4a1b5f3acd862590c848cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/1a33d9e66acc1c248b63bf9dfdbfd3b15d73849e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e58245c4b49b374911c6513ddf1753d7fc2b3e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/f7d77176e52bf527e6469881f581a6c690174668/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b09064182852f8432b197de67252d1f699817c14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/ffe2c416a806934a908878050776e75f0277ab17/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4c52916b7e14927f5fa0ad5e8fb5997c2a986ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jstampfli19/.android/build-cache/1104b4e2734582eaa7f6d60eed8b4f5606b5b27c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/jstampfli19/Documents/GitHub/PMIConferenceAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4636b0122b3b19bd05f5e0218177cfa7fa076bbf/classes.dex" />
+    </item>
+
+</items>
